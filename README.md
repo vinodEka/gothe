@@ -1,2 +1,2 @@
 # gothe
-Contain codes of  Germany initiative  projects
+Contain codes of initiative  projects
